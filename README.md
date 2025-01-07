@@ -6,8 +6,7 @@ This year’s challenge starts on 5 June, and is about Qiskit SDK 1.0 and workin
 
 ## Registration
 
-Registration is open until the end of the challenge (14 June): https://challenges.quantum.ibm.com/2024
-
+Registration is closed now.
 ## Introduction
 
 Earlier this year, we debuted the first stable release of the Qiskit SDK, the IBM software for programming utility-scale quantum computers. Now, we challenge you to put it to work.
